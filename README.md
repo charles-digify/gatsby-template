@@ -1,12 +1,22 @@
+Make sure you have **Node.js** and **NPM** installed!
+
 ## 🚀 Quick start
 
-1.  **Start developing.**
+1. **Install Dependencies.**
 
-    Navigate into your new site’s directory and start it up.
+	Navigate into your new site’s directory and install the NPM dependencies.
+
+	```shell
+	cd gatsby-template/
+	npm i
+	```
+
+2.  **Start developing.**
+
+    Run the following command to start the development server.
 
     ```shell
-    cd gatsby-template/
-    npm run develop
+    npm run dev
     ```
 
 2.  **Open the source code and start editing!**
